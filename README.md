@@ -4,8 +4,8 @@
 
 Пользователь вводит набор точек X,Y. Приложение рисует интерполированный график.
 
-
-![My Image](https://github.com/turbcool/Lagrange_Interpolation_NI/blob/master/screenshot/screen.JPG)
+<img src="https://github.com/turbcool/Lagrange_Interpolation_NI/blob/master/screenshot/screen.JPG" width="80%" height="80%">
 
 Студенческая работа, выполненная на 1 курсе.
+
 Использованные технологии: Windows Forms, C#.
